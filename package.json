@@ -1,0 +1,24 @@
+{
+  "name": "tempat-wisata",
+  "version": "1.0.0",
+  "description": "API List Tempat Wisata",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadlaiq97/tempat-wisata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadlaiq97/tempat-wisata/issues"
+  },
+  "homepage": "https://github.com/ahmadlaiq97/tempat-wisata#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
